@@ -29,10 +29,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="722" alt="azure resources wireshark" src="https://github.com/qjackson14/osticket-postinstall/assets/156969011/03fc8b75-0301-45d3-8862-dc2d8385b439">
 </p>
 <p>
-Azure
+Create VM1 in Azure
 </p>
 <br />
 
