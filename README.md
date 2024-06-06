@@ -26,6 +26,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create SIM Environment
 - SIM Lifecycle of tickets
 
+<h2>What Are Ticketing Systems & Why They Are Needed:</h2>
+
+A ticketing system is a software application used by help desks and IT support teams to manage and track user requests, issues, and service tasks. It allows users to submit tickets describing their problems or requests, which are then assigned to appropriate support staff for resolution. The system organizes these tickets, prioritizes them based on urgency or severity, and tracks their status from submission to resolution. This ensures that no request is overlooked and provides a clear record of the support process. For a help desk role, a ticketing system is essential as it improves efficiency, enhances communication between users and support staff, ensures accountability, and provides valuable data for analyzing support trends and performance.
+
 <h2>Configuration Steps</h2>
 
 <p>
